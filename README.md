@@ -1,6 +1,6 @@
 # VoteChain — Decentralized Voting DApp
 
-VoteChain is a blockchain-based decentralized voting platform built as a final-year academic project. It combines an on-chain Solidity smart contract deployed on the **Polygon Amoy testnet** with a React + TypeScript frontend and a Node/Express/MongoDB backend, giving it the transparency and tamper-resistance of the blockchain along with the speed and usability of a traditional web app.
+VoteChain is a blockchain-based decentralized voting platform. It combines an on-chain Solidity smart contract deployed on the **Polygon Amoy testnet** with a React + TypeScript frontend and a Node/Express/MongoDB backend, giving it the transparency and tamper-resistance of the blockchain along with the speed and usability of a traditional web app.
 
 **🔗 Live Demo:** [voting-dapp.ai.studio](https://voting-dapp.ai.studio)
 
